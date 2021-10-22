@@ -1,1 +1,2 @@
 # webpack-express-boilerplate
+Great starting point for an app to be built with Webpack and Express.js, created with following blindly <a href="https://binyamin.medium.com/creating-a-node-express-webpack-app-with-dev-and-prod-builds-a4962ce51334">the blog post</a> from Ben Grunfeld.
